@@ -134,3 +134,4 @@ C:\WebMVC\WebBanHang\WebBanHang\obj\Debug\net8.0\refint\WebBanHang.dll
 C:\WebMVC\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.pdb
 C:\WebMVC\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.genruntimeconfig.cache
 C:\WebMVC\WebBanHang\WebBanHang\obj\Debug\net8.0\ref\WebBanHang.dll
+C:\WebMVC\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.sourcelink.json
